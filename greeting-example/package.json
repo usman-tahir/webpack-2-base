@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "jshint": "^2.9.5",
+    "jshint-loader": "^0.8.4",
     "webpack": "^3.0.0"
   },
   "dependencies": {
